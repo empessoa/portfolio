@@ -1,0 +1,108 @@
+/*xs < 768 smartphone*/ 
+@media screen and (max-width: 767px){
+	.item{
+	width: 100%;
+	height: 100%;
+	border: 2px solid #EEEEEE;
+	overflow: auto;
+	}
+	h3{
+	text-align:center;
+	color:#212121;
+	font-size:15px;
+	}
+	p{
+	color:#424242;
+	font-size: 10px;
+	}
+	h4{
+	text-align:left;
+	color:#212121;
+	font-size:13px;
+	}
+	a, li, dd{
+	color:#212121;
+	font-size:11px;
+	}
+}
+/*sm > 768 tablet*/
+@media screen and (min-width: 768px){
+	.item{
+	width: 100%;
+	height: 100%;
+	border: 2px solid #EEEEEE;
+	overflow: auto;
+	}
+	h3{
+	text-align:center;
+	color:#212121;
+	font-size:20px;
+	}
+	p{
+	color: #424242;
+	font-size: 13px;
+	}
+	h4{
+	text-align:left;
+	color:#212121;
+	font-size:18px;
+	}
+	a, li, dd{
+	color:#212121;
+	font-size:15px;
+	}
+}
+/*md > 992 desktop*/
+@media screen and (min-width: 992px){
+	.item{
+	width: 100%;
+	height: 100%;
+	border: 2px solid #EEEEEE;
+	overflow: auto;
+	}
+	h3{
+	text-align:center;
+	color:#212121;
+	font-size:20px;
+	}
+	p{
+	color: #424242;
+	font-size: 15px;
+	}
+	h4{
+	text-align:left;
+	color:#212121;
+	font-size:18px;
+	}
+	a, li, dd{
+	color:#212121;
+	font-size:15px;
+	}
+}
+/*lg > 1200*/
+@media screen and (min-width: 1200px){
+	.item{
+	width: 100%;
+	height: 100%;
+	border: 2px solid #EEEEEE;
+	overflow: auto;
+	}
+	h3{
+	text-align:center;
+	color:#212121;
+	font-size:20px;
+	}
+	p{
+	color: #424242;
+	font-size: 15px;
+	}
+	h4{
+	text-align:left;
+	color:#212121;
+	font-size:18px;
+	}
+	a, li, dd{
+	color:#212121;
+	font-size:15px;
+	}
+}
