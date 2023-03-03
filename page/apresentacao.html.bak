@@ -12,11 +12,14 @@
 			    <p>Profissionalmente busco impactar com
 				novas ideias e soluções. Características: assiduidade, adaptabilidade, dinamismo, comprometimento,
 				trabalho em equipe e um bom relacionamento interpessoal.</p>
-			    <hr/>
-			    <p>Atenciosamente,<br/>
-			    Elias Mendes Pessoa.</p>
-			    <hr/>
+			    <hr/>			    
 			</div>
 		</div>
 	</div>
 </div>
+<footer id="rodape">
+		<div class="row" >
+			    <p>Atenciosamente,<br/>
+			    Elias Mendes Pessoa.</p>
+				</div>
+	</footer>
